@@ -1,0 +1,6 @@
+Cancerous
+Healthy
+Poison Ivy
+Psoriasis
+Ulcers
+Vitiligo
